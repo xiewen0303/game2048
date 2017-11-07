@@ -1,0 +1,77 @@
+{
+  "15cbf560367": {
+    "path": "..\\resource\\eui_skins\\LoginFrame.ts",
+    "class": "LoginFrame",
+    "parentPath": ""
+  },
+  "15cc4cee40c": {
+    "path": "ui\\map\\MainMapFrame.ts",
+    "class": "MainMapFrame",
+    "parentPath": ""
+  },
+  "global": {
+    "globalAutoLayerMarkEnable": true,
+    "globalAdsorbEnable": false,
+    "globalRulerEnable": true,
+    "globalBindingDataTestObj": []
+  },
+  "15d81cc503a": {
+    "backgroundType": "user",
+    "useBgImage": true,
+    "useBgColor": false,
+    "backgroundImage": "E:\\egret\\workspace\\gameH5\\resource\\assets\\login\\login02.jpg",
+    "backgroundX": 0,
+    "backgroundY": 0,
+    "backgroundWidth": -1,
+    "backgroundHeight": -1,
+    "backgroundAlpha": 100,
+    "bindingDataTestObj": []
+  },
+  "15d84741c65": {
+    "backgroundType": "null",
+    "useBgImage": false,
+    "useBgColor": false,
+    "backgroundImage": "E:\\egret\\workspace\\gameH5\\resource\\assets\\common\\bt_normal_023.png",
+    "backgroundX": 0,
+    "backgroundY": 0,
+    "backgroundWidth": -1,
+    "backgroundHeight": -1,
+    "backgroundAlpha": 100
+  },
+  "15d87800dad": {
+    "guideLinesEnabled": true,
+    "backgroundX": 0,
+    "backgroundY": 0,
+    "backgroundWidth": -1,
+    "backgroundHeight": -1,
+    "useBgImage": true,
+    "useBgColor": true,
+    "backgroundAlpha": 100
+  },
+  "15d933f2a01": {
+    "path": "ui\\map\\FightMapFrame.ts",
+    "class": "FightMapFrame",
+    "parentPath": "",
+    "backgroundType": "user",
+    "useBgImage": true,
+    "useBgColor": false,
+    "backgroundImage": "E:\\game2048\\res\\界面位置参考1136\\战斗界面01.jpg",
+    "backgroundX": 0,
+    "backgroundY": 0,
+    "backgroundWidth": -1,
+    "backgroundHeight": -1,
+    "backgroundAlpha": 100,
+    "bindingDataTestObj": []
+  },
+  "15d93a96745": {
+    "path": "ui\\map\\ItemSlot.ts",
+    "class": "ItemSlot",
+    "parentPath": ""
+  },
+  "15d960c481b": {
+    "backgroundType": "user",
+    "useBgImage": true,
+    "useBgColor": false,
+    "backgroundImage": "E:\\game2048\\res\\界面位置参考1136\\战斗界面01.jpg"
+  }
+}
